@@ -1,165 +1,101 @@
-{
-    "products": [
-      {
-        "id": 11,
-        "title": "perfume Oil",
-        "price": 13,
-        "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
-         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Farabic-oil-perfume&psig=AOvVaw2hTYSHdzZ4Ei0Zngucd-xO&ust=1710236020859000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi1tefz64QDFQAAAAAdAAAAABAJ",
-          "rating": 4.26,
-      },
-      {
-        "id": 12,
-        "title": "Brown Perfume",
-        "price": 40,
-        "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
-        "rating": 4,
-        "image": "https://i.dummyjson.com/data/products/12/2.jpg"
-      },
-      {
-        "id": 13,
-        "title": "Fog Scent Xpressio Perfume",
-        "price": 13,
-        "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
-        "rating": 4.59,
-        "image": "https://i.dummyjson.com/data/products/13/1.jpg"
-      },
-      {
-        "id": 14,
-        "title": "Non-Alcoholic Concentrated Perfume Oil",
-        "price": 120,
-        "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
-        "rating": 4.21,
-        "image": "https://i.dummyjson.com/data/products/14/1.jpg"
-      },
-      {
-        "id": 15,
-        "title": "Eau De Perfume Spray",
-        "price": 30,
-        "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
-        "rating": 4.7,
-        "image": "https://i.dummyjson.com/data/products/15/1.jpg"
-      },
-      {
-        "id": 16,
-        "title": "Hyaluronic Acid Serum",
-        "price": 19,
-        "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
-        "rating": 4.83,
-        "image": "https://i.dummyjson.com/data/products/16/1.png"
-      },
-      {
-        "id": 17,
-        "title": "Tree Oil 30ml",
-        "price": 12,
-        "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
-        "rating": 4.52,
-        "image": "https://i.dummyjson.com/data/products/17/1.jpg"
-      },
-      {
-        "id": 18,
-        "title": "Oil Free Moisturizer 100ml",
-        "price": 40,
-        "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
-        "rating": 4.56,
-        "image": "https://i.dummyjson.com/data/products/18/1.jpg"
-      },
-      {
-        "id": 19,
-        "title": "Skin Beauty Serum.",
-        "price": 46,
-        "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
-        "rating": 4.42,
-        "image": "https://i.dummyjson.com/data/products/19/1.jpg"
-      },
-      {
-        "id": 20,
-        "title": "Freckle Treatment Cream- 15gm",
-        "price": 70,
-        "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
-        "rating": 4.06,
-        "image": "https://i.dummyjson.com/data/products/20/1.jpg"
-      },
-      {
-        "id": 21,
-        "title": "- Daal Masoor 500 grams",
-        "price": 20,
-        "description": "Fine quality Branded Product Keep in a cool and dry place",
-        "rating": 4.44,
-        "image": "https://i.dummyjson.com/data/products/21/1.png"
-      },
-      {
-        "id": 22,
-        "title": "Elbow Macaroni - 400 gm",
-        "price": 14,
-        "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-        "rating": 4.57,
-        "image": "https://i.dummyjson.com/data/products/22/1.jpg"
-      },
-      {
-        "id": 23,
-        "title": "Orange Essence Food Flavou",
-        "price": 14,
-        "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-        "rating": 4.85,
-        "image": "https://i.dummyjson.com/data/products/23/1.jpg"
-      },
-      {
-        "id": 24,
-        "title": "cereals muesli fruit nuts",
-        "price": 46,
-        "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-        "rating": 4.94,
-        "image": "https://i.dummyjson.com/data/products/24/1.jpg"
-      },
-      {
-        "id": 25,
-        "title": "Gulab Powder 50 Gram",
-        "price": 70,
-        "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
-        "rating": 4.87,
-        "image": "https://i.dummyjson.com/data/products/25/1.png"
-      },
-      {
-        "id": 26,
-        "title": "Plant Hanger For Home",
-        "price": 41,
-        "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
-        "rating": 4.08,
-        "image": "https://i.dummyjson.com/data/products/26/1.jpg"
-      },
-      {
-        "id": 27,
-        "title": "Flying Wooden Bird",
-        "price": 51,
-        "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
-        "rating": 4.41,
-        "image": "https://i.dummyjson.com/data/products/27/1.jpg"
-      },
-      {
-        "id": 28,
-        "title": "3D Embellishment Art Lamp",
-        "price": 20,
-        "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
-        "rating": 4.82,
-        "image": "https://i.dummyjson.com/data/products/28/1.jpg"
-      },
-      {
-        "id": 29,
-        "title": "Handcraft Chinese style",
-        "price": 60,
-        "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
-        "rating": 4.44,
-        "image": "https://i.dummyjson.com/data/products/29/1.jpg"
-      },
-      {
-        "id": 30,
-        "title": "Key Holder",
-        "price": 30,
-        "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-        "rating": 4.92,
-        "image": "https://i.dummyjson.com/data/products/30/1.jpg"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": "7/10"
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": "8/10"
+  },
+  {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": "9/10"
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": "6/10"
+  },
+  {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": "6/10"
+  },
+  {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": "9/10"
+  },
+  {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": "10/10"
+  },
+  {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": "5/10"
+  },
+  {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": "6/10"
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": "7/10"
+  },
+  {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": "9/10"
   }
-  
+]
